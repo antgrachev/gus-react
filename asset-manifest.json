@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gus-react/static/css/main.4b10ff8b.css",
-    "main.js": "/gus-react/static/js/main.6a760cff.js",
+    "main.js": "/gus-react/static/js/main.22b08e20.js",
     "static/media/planeta.jpg": "/gus-react/static/media/planeta.9d6eeb4df12e55bf0399.jpg",
     "index.html": "/gus-react/index.html",
     "main.4b10ff8b.css.map": "/gus-react/static/css/main.4b10ff8b.css.map",
-    "main.6a760cff.js.map": "/gus-react/static/js/main.6a760cff.js.map"
+    "main.22b08e20.js.map": "/gus-react/static/js/main.22b08e20.js.map"
   },
   "entrypoints": [
     "static/css/main.4b10ff8b.css",
-    "static/js/main.6a760cff.js"
+    "static/js/main.22b08e20.js"
   ]
 }
