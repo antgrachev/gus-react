@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>$Title$</title>
+</head>
+
+<body>
+Update: <div id="now"></div><br>
+$END$
+</body>
+
+<script>
+    let now = new Date().toISOString();
+    document.getElementById("now").innerHTML = now;
+
+    setInterval(() => window.location.reload(), 60000);
+</script>
+
+</html>
