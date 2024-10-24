@@ -49,6 +49,14 @@ class App extends React.Component {
           category: '2',
           price: '10.00'
         },
+        {
+          id: 6,
+          title: 'Test',
+          img: '4.jpg',
+          desc: '123 Lorem',
+          category: '1',
+          price: '336.00'
+        },
 
       ]
     }
